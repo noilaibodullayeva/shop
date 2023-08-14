@@ -1,0 +1,321 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Electronika"
+        },
+        {
+            "id": 2,
+            "name": "Kiyim"
+        },
+        {
+            "id": 3,
+            "name": "Poyafzal"
+        },
+        {
+            "id": 4,
+            "name": "Salomatlik"
+        },
+        {
+            "id": 5,
+            "name": "Kitoblar"
+        }
+    ],
+    "products": [
+        {
+            "id": 2,
+            "price": "200$",
+            "title": "Apple 14",
+            "desc": "„IPhone“ savdo belgisi Cisco Systems kompaniyasiga tegishli, ushbu kompaniya 2006-yilda shu nomli internet-telefonlar uchun apparat ishlab chiqargan. Uzoq vaqt sud jarayonlari va tortishuvlardan soʻng Apple va Cisco Systems „IPhone“ markasini butun dunyodabor.",
+            "categoryId": 1,
+            "amount": 8,
+            "addImg": [
+                "https://avatars.mds.yandex.net/i?id=2a068705b24cc6024dbbbf20d18ab21ec24cc147-7751470-images-thumbs&n=13",
+                "https://avatars.mds.yandex.net/i?id=e8bce2dd21e1f3cb761eceac57b83ce38ecc91b2-10695933-images-thumbs&n=13",
+                "https://avatars.mds.yandex.net/i?id=9e0418650e65b699b82fbfc236374ccf-5189719-images-thumbs&n=13"
+            ],
+            "img": "https://openshop.uz/public/storage/uploads/products/photos/202210/YRxkjMWrGcEozUZ2jW2GqhrjgJSUCv9Ftsq63O8v.jpg"
+        },
+        {
+            "id": 1,
+            "price": "300$",
+            "title": "Samsung s22",
+            "desc": "Galaxy S seriyasining vakili sifatida „Samsung Electronics“ tomonidan ishlab chiqarilgan va sotila boshlangan Androidga asoslangan smartfonlar seriyasidir. 2022-yil 9-fevralda Samsungning Galaxy Unpacked tadbirida taqdim etilgan seriya Galaxy S21 va Galaxy Note 20 seriyalarining davomchisi hisoblanadi",
+            "categoryId": 1,
+            "amount": 8,
+            "addImg": [
+                "https://avatars.mds.yandex.net/i?id=1fa6fba40f9ff0d90be3889f8345e746dae8df85-10284885-images-thumbs&n=13",
+                "https://avatars.mds.yandex.net/i?id=aee40c16bde3b8787ceffcb10d4f8a37e6237c94-9725170-images-thumbs&n=13",
+                "https://avatars.mds.yandex.net/i?id=342097ef51505eb6666c4ba62df0c3724cee05fe-8767819-images-thumbs&n=13"
+            ],
+            "img": "https://openshop.uz/public/storage/uploads/products/photos/202212/mh2yIgnZeNMVOhWDCQI7eRtOqzDr7PfeGBxao2jG.jpg"
+        },
+        {
+            "id": 3,
+            "price": "600$",
+            "title": "Aloe suv",
+            "desc": "Aloe sharbati aloe vera zavodidan olingan tabiiy moddadir. Proponentlar uzoq vaqt davomida ichimlik suvi ichak tutilishining, yuqumli kasalliklar va yallig'lanishning diabet va yuqori qon bosimini nazorat qilish uchun sog'lig'ining keng salomatligini ta'minlay olishi mumkinligini ilgari surganlar.",
+            "categoryId": 4,
+            "amount": 9,
+            "addImg": [
+                "https://avatars.mds.yandex.net/i?id=fcac00a2bc7e9a2f04e81c4a85feec12da60469d-8497423-images-thumbs&n=13",
+                "https://avatars.mds.yandex.net/i?id=72e134fec015b1de594d82009480b5a9d23ae73d-9151021-images-thumbs&n=13",
+                "https://avatars.mds.yandex.net/i?id=550ccbf983c7be5c1a8ee9263016709d-4255692-images-thumbs&n=13"
+            ],
+            "img": "https://dostavo4ka.uz/upload-file/2021/05/05/5048/7957816c-fa5d-4abd-990d-9dc5920dca85.jpg"
+        },
+        {
+            "id": 4,
+            "price": "600$",
+            "title": "Shim",
+            "desc": "So’ngi yillarda yurtimizda ikki turdagi shimlar urfga kirib bormoqda, bular pol klassik va jinsi shimlardir. Ayniqsa jinsi shimlar keng ommalashdi. Bunga sabab qilib jinsi shimlarni mustahkamligi va ularning hamyonbopligidir.",
+            "categoryId": 2,
+            "amount": 9,
+            "addImg": [
+                "https://avatars.mds.yandex.net/i?id=061cb6ed64ea89c461863a1f2144f570cc4db6c1-8495831-images-thumbs&n=13",
+                "https://avatars.mds.yandex.net/i?id=55508c9db8edc2a95f0ecf8db3f5350c05d1f377-9095279-images-thumbs&n=13",
+                "https://avatars.mds.yandex.net/i?id=c0338e1f8aed5fc11d5d34127b803495f122f50b-9181172-images-thumbs&n=13"
+            ],
+            "img": "https://cdn.olcha.uz/image/400x400/products//rpc/terrapro/2023-02-02/hEVIxotFtIpJFGEgmw7cXfmtKPyCBALfBlyp2vpPE9Os98qNYSrUTSox2VgDyGZf.jpg"
+        },
+        {
+            "id": 5,
+            "price": "100$",
+            "title": "Koylak",
+            "desc": "Zamonaviy erkaklar ko'ylagi tekis rangda. aktab, har qanday bayram va kundalik kiyim uchun juda mos keladi. Tabiiy paxta tarkibi issiq mavsumda teringizni erkin nafas olishiga imkon beradi.",
+            "categoryId": 2,
+            "amount": 9,
+            "addImg": [
+                "https://avatars.mds.yandex.net/i?id=640ab93d7e62fc55c0ac9173bbde3beae579c837-3569687-images-thumbs&n=13",
+                "https://avatars.mds.yandex.net/i?id=3878baac87603a8dc5447023832df353ade07b3b-8497818-images-thumbs&n=13",
+                "https://avatars.mds.yandex.net/i?id=a48b45bfaf01c1d1fbf60f7dd7453d4b6d11b62a-9601198-images-thumbs&n=13"
+            ],
+            "img": "https://images.uzum.uz/ccpv5on0tgqvlm57l14g/original.jpg"
+        },
+        {
+            "id": 6,
+            "price": "800$",
+            "title": "Tufli",
+            "desc": "Yoqimli Pier Lucci platformali poyabzal. Mahsulot materiali - 100% haqiqiy teri. Teri ichki taglik har qanday yoz kunida mahsulot ichidagi optimal mikroiqlimni saqlashga imkon beradi.",
+            "categoryId": 3,
+            "amount": 9,
+            "addImg": [
+                "https://avatars.mds.yandex.net/i?id=5e19e785bf2847b81cbff70157ea7b0e879a5001-9231415-images-thumbs&n=13",
+                "https://avatars.mds.yandex.net/i?id=1d33aa4ff122c674fd4caa8233b7960deb54e466-9147831-images-thumbs&n=13",
+                "https://avatars.mds.yandex.net/i?id=d39873dbc148158e1038786780876d51da88b956-9690550-images-thumbs&n=13"
+            ],
+            "img": "https://images.uzum.uz/cdrka98v1htd23ai5dsg/original.jpg"
+        },
+        {
+            "id": 7,
+            "price": "500$",
+            "title": "Krasovka",
+            "desc": "Qulay, chiroyli va ajoyib narxlardagi poyabzal bilan har bir qadamingizdan zavq oling. Ushbu poyabzal ko'rinishingizga hashamat qo'shib o'ziga xos individual imijingizni namoyish qilishga yordam beradi.",
+            "categoryId": 3,
+            "amount": 9,
+            "addImg": [
+                "http://allstarshoe.ru/wa-data/public/shop/products/18/50/5018/images/21341/21341.750x0.jpg",
+                "https://avatars.mds.yandex.net/i?id=7affcf42d2de16d181e3413c832d92ae5a9973ae-5858852-images-thumbs&ref=rim&n=33&w=150&h=150",
+                "http://g01.a.alicdn.com/kf/HTB1JRu2HpXXXXafXXXXq6xXFXXXu/204963147/HTB1JRu2HpXXXXafXXXXq6xXFXXXu.jpg"
+            ],
+            "img": "https://allso.uz/foto_product/96617/1.jpg"
+        },
+        {
+            "id": 8,
+            "price": "300$",
+            "title": "Masaj uskunasi",
+            "desc": "Perkussion massaj quroli - Faqat 15 daqiqalik massajda siz noqulaylikdan xalos bo'lasiz va qon aylanishini yaxshilaysiz. Yo'lda siz bilan olib yurish oson bo'lgan portativ massajchi. Bu butun tanaga shifobaxsh ta'sir ko'rsatadigan tebranish terapiyasi",
+            "categoryId": 4,
+            "amount": 9,
+            "addImg": [
+                "https://avatars.mds.yandex.net/i?id=b7c118eb14a754fef4071e9d0ba8428a9ccaf8ea-8196710-images-thumbs&n=13",
+                "https://avatars.mds.yandex.net/i?id=300a7e5fc612a703f0fd544ea36246050d366dd1-9103674-images-thumbs&n=13",
+                "https://avatars.mds.yandex.net/i?id=8d69c1b29e1948d028657a85a3e48a9c604a851f-9182420-images-thumbs&n=13"
+            ],
+            "img": "https://images.uzum.uz/chhh6ht6sfhndlbm96fg/original.jpg"
+        },
+        {
+            "id": 9,
+            "price": "800$",
+            "title": "Rus tili",
+            "desc": "Boshlang'ich maktab uchun rus tilidagi va ko'p yillar davomida muvaffaqiyatli sotilgan G. N. Sychevaning 'eng yaxshi diktantlar va grammatik vazifalar' kitoblarining davomi hisoblanadi.",
+            "categoryId": 5,
+            "amount": 9,
+            "addImg": [
+                "https://avatars.mds.yandex.net/i?id=85cedbb9021da556e77043f0e510681140895641-9246003-images-thumbs&n=13",
+                "https://i.mycdn.me/i?r=AzEPZsRbOZEKgBhR0XGMT1RkEMtRslteh8HndxyDq4n-YKaKTM5SRkZCeTgDn6uOyic",
+                "https://avatars.mds.yandex.net/i?id=1dbeef8a6e7497a37da96b311e123165bf32c688-7011710-images-thumbs&n=13"
+            ],
+            "img": "https://kitobxon.com/img_knigi/4733.jpg"
+        },
+        {
+            "id": 10,
+            "price": "200$",
+            "title": "Arab tili",
+            "desc": "Muallimi Soniy tajvid qoidalari bilan, Boshlangich arab tili saboqlari. 100 000 so'm 28 000 so'm. Jannatga Taklifnoma, Adam Uzkusa Oxirat va qiyomat Barzax (Qabr) hayoti. ... Payg'ambarlar qissalari haqidagi 9 ta rasmli kitoblar to'plami.",
+            "categoryId": 5,
+            "amount": 9,
+            "addImg": [
+                "https://avatars.mds.yandex.net/i?id=e114532fe08299fa06215d8d533388d9fa2c4d1e-8800190-images-thumbs&n=13",
+                "https://avatars.mds.yandex.net/i?id=4c78baaffb747271f897c209416abc9f8746a1f5-8340613-images-thumbs&n=13",
+                "https://avatars.mds.yandex.net/i?id=7bcfbbe189e851c4fd78219e62f3e34ebd049203-6017590-images-thumbs&n=13"
+            ],
+            "img": "https://hilolnashr.uz/image/cache/catalog/001-Kitoblar/001_hilol_nashr/badiiy/arab-adabiy-tili-web-500x500.jpg"
+        },
+        {
+            "id": 11,
+            "price": "900$",
+            "title": "Ingliz tili",
+            "desc": "So’ngi vaqtlarda trendga chiqqan, sayt va televizorlarda reklamasi aylanayotgan Intensive English kitobi bo’yicha ham fikrimni so’rab murojaat qilayoganlar ko’pchilikni tashkil etmoqda.",
+            "categoryId": 5,
+            "amount": 9,
+            "addImg": [
+                ""
+            ],
+            "img": "https://barakot.uz/image/get-image?imageName=Ingliz%20tili%20Grammatikasi%20Do%20you%20speak%20English.jpg"
+        },
+        {
+            "id": 12,
+            "price": "900$",
+            "title": "Fransuz tili",
+            "desc": "Sifat bizning ustunligimiz. ro'yxatdan o'tmasdan, reklama kutmasdan va to'g'ridan-to'g'ri o'zbek tilida kitoblar bo'limida joylashgan boshqa materiallarni ham kuzatishingiz mumkin. Buning uchun bo'lim ismi ustiga bosing",
+            "categoryId": 5,
+            "addImg": [
+                ""
+            ],
+            "img": "https://avatars.mds.yandex.net/i?id=37aed913498e2927401330727380a39b6756dc50-9151250-images-thumbs&n=13"
+        },
+        {
+            "id": 13,
+            "price": "600$",
+            "title": "Apple 8",
+            "desc": "„IPhone“ savdo belgisi Cisco Systems kompaniyasiga tegishli, ushbu kompaniya 2006-yilda shu nomli internet-telefonlar uchun apparat ishlab chiqargan. Uzoq vaqt sud jarayonlari va tortishuvlardan soʻng Apple va Cisco Systems „IPhone“ markasini butun dunyodabor.",
+            "categoryId": 1,
+            "amount": 9,
+            "addImg": [
+                ""
+            ],
+            "img": "https://avatars.mds.yandex.net/i?id=795afbefcb8b5f189c0966afef0fe9dee4d23f92-5351873-images-thumbs&n=13"
+        },
+        {
+            "id": 14,
+            "price": "400$",
+            "title": "Samsung A73",
+            "desc": "Galaxy S seriyasining vakili sifatida „Samsung Electronics“ tomonidan ishlab chiqarilgan va sotila boshlangan Androidga asoslangan smartfonlar seriyasidir. 2022-yil 9-fevralda Samsungning Galaxy Unpacked tadbirida taqdim etilgan seriya Galaxy S21 va Galaxy Note 20 seriyalarining davomchisi hisoblanadi",
+            "categoryId": 1,
+            "amount": 9,
+            "addImg": [
+                ""
+            ],
+            "img": "https://avatars.mds.yandex.net/i?id=d6198fcbef49df14f481f5354acc792c7a602463-9266552-images-thumbs&n=13"
+        },
+        {
+            "id": 15,
+            "price": "60$",
+            "     title": "Coca Cola",
+            "desc": "Aloe sharbati aloe vera zavodidan olingan tabiiy moddadir. Proponentlar uzoq vaqt davomida ichimlik suvi ichak tutilishining, yuqumli kasalliklar va yallig'lanishning diabet va yuqori qon bosimini nazorat qilish uchun sog'lig'ining keng salomatligini ta'minlay olishi mumkinligini ilgari surganlar.",
+            "categoryId": 4,
+            "amount": 9,
+            "addImg": [
+                ""
+            ],
+            "img": "https://avatars.mds.yandex.net/i?id=64455dc169ed97ab58a5dce3f4bc7c01c4047043-10289644-images-thumbs&n=13"
+        },
+        {
+            "id": 16,
+            "price": "1000$",
+            "title": "Oq ko'ylak",
+            "desc": "So’ngi yillarda yurtimizda ikki turdagi shimlar urfga kirib bormoqda, bular pol klassik va jinsi shimlardir. Ayniqsa jinsi shimlar keng ommalashdi. Bunga sabab qilib jinsi shimlarni mustahkamligi va ularning hamyonbopligidir.",
+            "categoryId": 2,
+            "amount": 9,
+            "addImg": [
+                ""
+            ],
+            "img": "https://avatars.mds.yandex.net/i?id=86979b4027d5a1027758d80b8d20d36d4add8825-9148266-images-thumbs&n=13"
+        },
+        {
+            "id": 17,
+            "price": "100$",
+            "title": "Ro'mol",
+            "desc": "Zamonaviy erkaklar ko'ylagi tekis rangda. aktab, har qanday bayram va kundalik kiyim uchun juda mos keladi. Tabiiy paxta tarkibi issiq mavsumda teringizni erkin nafas olishiga imkon beradi.",
+            "categoryId": 2,
+            "amount": 9,
+            "addImg": [
+                ""
+            ],
+            "img": "https://avatars.mds.yandex.net/i?id=5e25570fdf2a0e72bbd162331073b223b23e71cd-9733994-images-thumbs&n=13"
+        },
+        {
+            "id": 18,
+            "price": "800$",
+            "title": "Tufli",
+            "desc": "Yoqimli Pier Lucci platformali poyabzal. Mahsulot materiali - 100% haqiqiy teri. Teri ichki taglik har qanday yoz kunida mahsulot ichidagi optimal mikroiqlimni saqlashga imkon beradi.",
+            "categoryId": 3,
+            "amount": 9,
+            "addImg": [
+                ""
+            ],
+            "img": "https://avatars.mds.yandex.net/i?id=667bd56e0837e2e84920b88f883b2348d20764f1-7952541-images-thumbs&n=13"
+        },
+        {
+            "id": 19,
+            "price": "500$",
+            "title": "Changyutgich",
+            "desc": "Qulay, chiroyli va ajoyib narxlardagi poyabzal bilan har bir qadamingizdan zavq oling. Ushbu poyabzal ko'rinishingizga hashamat qo'shib o'ziga xos individual imijingizni namoyish qilishga yordam beradi.",
+            "categoryId": 1,
+            "amount": 9,
+            "addImg": [
+                ""
+            ],
+            "img": "https://avatars.mds.yandex.net/i?id=ddc678b8ee69e9800fcffb1a9ee3bd17e249f2fa-9106682-images-thumbs&n=13"
+        },
+        {
+            "id": 20,
+            "price": "300$",
+            "title": "Koreys tili",
+            "desc": "Perkussion massaj quroli - Faqat 15 daqiqalik massajda siz noqulaylikdan xalos bo'lasiz va qon aylanishini yaxshilaysiz. Yo'lda siz bilan olib yurish oson bo'lgan portativ massajchi. Bu butun tanaga shifobaxsh ta'sir ko'rsatadigan tebranish terapiyasi",
+            "categoryId": 6,
+            "amount": 15,
+            "addImg": [
+                ""
+            ],
+            "img": "https://avatars.mds.yandex.net/i?id=a82e77cea26c10f5d35703031e0e0e1c88502f8b-9459824-images-thumbs&n=13"
+        },
+        {
+            "id": 21,
+            "price": "800$",
+            "title": "Muallimi Soniy",
+            "desc": "Boshlang'ich maktab uchun rus tilidagi va ko'p yillar davomida muvaffaqiyatli sotilgan G. N. Sychevaning 'eng yaxshi diktantlar va grammatik vazifalar' kitoblarining davomi hisoblanadi.",
+            "categoryId": 6,
+            "amount": 14,
+            "addImg": [
+                ""
+            ],
+            "img": "https://avatars.mds.yandex.net/i?id=712ee0cdb5ba233dcb7151c8b25e41ad86380a13-7757175-images-thumbs&n=13"
+        },
+        {
+            "id": 23,
+            "price": "900$",
+            "title": "Engskolopediya",
+            "desc": "So’ngi vaqtlarda trendga chiqqan, sayt va televizorlarda reklamasi aylanayotgan Intensive English kitobi bo’yicha ham fikrimni so’rab murojaat qilayoganlar ko’pchilikni tashkil etmoqda.",
+            "categoryId": 5,
+            "amount": 90,
+            "addImg": [
+                ""
+            ],
+            "img": "https://avatars.mds.yandex.net/i?id=04ed44aca2b13285ace74071c7499a91104c0d1f-9666026-images-thumbs&n=13"
+        },
+        {
+            "id": 24,
+            "price": "900$",
+            "title": "Hero",
+            "desc": "Sifat bizning ustunligimiz. ro'yxatdan o'tmasdan, reklama kutmasdan va to'g'ridan-to'g'ri o'zbek tilida kitoblar bo'limida joylashgan boshqa materiallarni ham kuzatishingiz mumkin. Buning uchun bo'lim ismi ustiga bosing",
+            "categoryId": 5,
+            "amount": 9,
+            "addImg": [
+                ""
+            ],
+            "img": "https://avatars.mds.yandex.net/i?id=5d4e7bc57d20b1c4b2d24c3f6c4c8108-5404314-images-thumbs&n=13"
+        }
+    ]
+}

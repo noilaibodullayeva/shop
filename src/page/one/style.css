@@ -1,0 +1,6 @@
+.images-big{
+    display: flex;
+    flex-direction: row !important;
+    justify-content: space-around;
+    padding: 10px !important;
+}
