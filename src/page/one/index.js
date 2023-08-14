@@ -144,7 +144,7 @@ const One = () => {
         }
       }
     }
-    
+
     return (
         <div >
             {!product ? <>Loading...</> : <div>
@@ -155,11 +155,11 @@ const One = () => {
                         <img style={styles.imagess} src={product.addImg[1]} alt="rasm1" />
                         <img style={styles.imagess} src={product.addImg[2]} alt="rasm1" />
                     </div>
-                    <div><img src={product.img} style={styles.mystyle} alt="image "/></div>
+                    <div><img src={product.img} style={styles.mystyle} className="imagebiggpone" alt="image "/></div>
                 </div>
 
-                <p style={styles.mystyle3}>{product.desc}</p>
-                <Button variant="outlined" style={styles.mystyle3}>{product.price}</Button>
+                <p style={styles.mystyle3}  className="desc">{product.desc}</p>
+                <Button variant="outlined" style={styles.mystyle3} className="buttonprice">{product.price}</Button>
             </div>}
 
             <div className="onee" style={styles.mystyle4}>
@@ -171,6 +171,7 @@ const One = () => {
                     }}
                     noValidate
                     autoComplete="off"
+                    className="boxbig"
                 >
                     <TextField id="filled-basic" label="Filled" variant="filled" placeholder="Ismingiz" />
                     <Box
