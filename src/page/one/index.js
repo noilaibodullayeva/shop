@@ -7,6 +7,7 @@ import TextField from '@mui/material/TextField';
 import * as React from 'react';
 import Button from '@mui/material/Button';
 import MenuItem from '@mui/material/MenuItem';
+import SendIcon from '@mui/icons-material/Send';
 import "./style.css"
 const One = () => {
     const styles = {
@@ -39,7 +40,6 @@ const One = () => {
         buttons: {
             width: "200px !important",
             height: "60px",
-            backgroundColor: "#eeeeee !important",
             fontSize: "17px"
         },
         imagesBig: {
@@ -133,16 +133,16 @@ const One = () => {
         })
     }, [])
 
-    const setCount= (action) => {
-      if (action === "-"){
-        if(productCount>1) {
-            setProductCount(productCount-1)  
+    const setCount = (action) => {
+        if (action === "-") {
+            if (productCount > 1) {
+                setProductCount(productCount - 1)
+            }
+        } else {
+            if (product.amount > productCount) {
+                setProductCount(productCount + 1)
+            }
         }
-      } else{
-        if(product.amount>productCount){
-             setProductCount(productCount+1) 
-        }
-      }
     }
 
     return (
@@ -155,10 +155,10 @@ const One = () => {
                         <img style={styles.imagess} src={product.addImg[1]} alt="rasm1" />
                         <img style={styles.imagess} src={product.addImg[2]} alt="rasm1" />
                     </div>
-                    <div><img src={product.img} style={styles.mystyle} className="imagebiggpone" alt="image "/></div>
+                    <div><img src={product.img} style={styles.mystyle} className="imagebiggpone" alt="image 1 " /></div>
                 </div>
 
-                <p style={styles.mystyle3}  className="desc">{product.desc}</p>
+                <p style={styles.mystyle3} className="desc">{product.desc}</p>
                 <Button variant="outlined" style={styles.mystyle3} className="buttonprice">{product.price}</Button>
             </div>}
 
@@ -227,14 +227,18 @@ const One = () => {
 
                         </div>
                     </Box>
-                    <div style={{ width: "180px", height:"50px", display: "flex", justifyContent: "space-between" }}>
-                        <Button variant="outlined" onClick={()=> {setCount("-")}}>-</Button>
+                    <div style={{ width: "180px", height: "50px", display: "flex", justifyContent: "space-between" }}>
+                        <Button variant="outlined" onClick={() => { setCount("-") }}>-</Button>
                         <p>{productCount}</p>
-                        <Button variant="outlined" onClick={()=> {setCount("+")}}>+</Button>
+                        <Button variant="outlined" onClick={() => { setCount("+") }}>+</Button>
                     </div>
-                    <Button variant="contained" style={styles.buttons}>Submit</Button>
+                    {/* <Button className="button1" variant="contained" style={styles.buttons} endIcon={<SendIcon />}><a href="/">Submit</a></Button> */}
+                    <Button variant="contained" style={styles.buttons} endIcon={<SendIcon />}>
+                        <a href="/">
+                        Send
+                        </a>
+                    </Button>
                 </Box>
-
             </div>
         </div>
     )
